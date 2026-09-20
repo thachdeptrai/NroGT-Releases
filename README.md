@@ -68,6 +68,7 @@ File IPA không thể cài trực tiếp bằng cách nhấn vào file trên iPh
 
 Bạn cần sử dụng phương thức sideload/sign IPA phù hợp với thiết bị của mình.
 
+### Còn Đòi Link TF thì có lồn tiền hỏi ít thôi
 ### File cần sử dụng
 
 `NroGT.ipa`
