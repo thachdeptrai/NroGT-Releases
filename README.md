@@ -8,7 +8,9 @@ Các phiên bản mới nhất được phát hành tại mục **Releases** c�
 
 ## 📥 Tải game
 
-👉 **[TẢI PHIÊN BẢN MỚI NHẤT](https://github.com/thachdeptrai/NroGT-Releases/releases/latest)**
+👉 **[TẢI PHIÊN BẢN MỚI NHẤT — v1.0.4](https://github.com/thachdeptrai/NroGT-Releases/releases/tag/v1.0.4)**
+
+Luôn xem bản mới nhất tại [Releases/latest](https://github.com/thachdeptrai/NroGT-Releases/releases/latest).
 
 Trong phần **Assets**, hãy chọn file phù hợp với thiết bị của bạn:
 
