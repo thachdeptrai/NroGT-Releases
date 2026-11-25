@@ -8,7 +8,7 @@ Các phiên bản mới nhất được phát hành tại mục **Releases** c�
 
 ## 📥 Tải game
 
-👉 **[TẢI PHIÊN BẢN MỚI NHẤT — v1.0.4](https://github.com/thachdeptrai/NroGT-Releases/releases/tag/v1.0.4)**
+👉 **[TẢI PHIÊN BẢN MỚI NHẤT — v1.0.5](https://github.com/thachdeptrai/NroGT-Releases/releases/tag/v1.0.5)**
 
 Luôn xem bản mới nhất tại [Releases/latest](https://github.com/thachdeptrai/NroGT-Releases/releases/latest).
 
@@ -16,17 +16,15 @@ Trong phần **Assets**, hãy chọn file phù hợp với thiết bị của b�
 
 | Thiết bị | File cần tải |
 |---|---|
-| 🖥️ Windows PC | `NroGT.zip` |
-| 🤖 Android | `NroGT.apk` |
-| 🍎 iPhone / iPad | `NroGT.ipa` |
+| 🖥️ Windows PC | [NroGT.zip](https://github.com/thachdeptrai/NroGT-Releases/releases/download/v1.0.5/NroGT.zip) |
+| 🤖 Android | [NroGT.apk](https://github.com/thachdeptrai/NroGT-Releases/releases/download/v1.0.5/NroGT.apk) |
+| 🍎 iPhone / iPad | [NroGT.ipa](https://github.com/thachdeptrai/NroGT-Releases/releases/download/v1.0.5/NroGT.ipa) |
 
 ---
 
 ## 🖥️ Windows
 
-Tải:
-
-`NroGT.zip`
+Tải [NroGT.zip](https://github.com/thachdeptrai/NroGT-Releases/releases/download/v1.0.5/NroGT.zip).
 
 ### Cách cài đặt
 
@@ -44,9 +42,7 @@ Tải:
 
 ## 🤖 Android
 
-Tải:
-
-`NroGT.apk`
+Tải [NroGT.apk](https://github.com/thachdeptrai/NroGT-Releases/releases/download/v1.0.5/NroGT.apk).
 
 ### Cách cài đặt
 
@@ -62,18 +58,11 @@ Tải:
 
 ## 🍎 iOS / iPadOS
 
-Tải:
-
-`NroGT.ipa`
+Tải [NroGT.ipa](https://github.com/thachdeptrai/NroGT-Releases/releases/download/v1.0.5/NroGT.ipa).
 
 File IPA không thể cài trực tiếp bằng cách nhấn vào file trên iPhone/iPad.
 
 Bạn cần sử dụng phương thức sideload/sign IPA phù hợp với thiết bị của mình.
-
-### Còn Đòi Link TF thì có lồn tiền hỏi ít thôi
-### File cần sử dụng
-
-`NroGT.ipa`
 
 > ⚠️ Bản IPA được cung cấp dưới dạng **unsigned IPA**.  
 > Người dùng cần tự ký (sign) ứng dụng trước khi cài đặt lên thiết bị.
@@ -84,7 +73,7 @@ Bạn cần sử dụng phương thức sideload/sign IPA phù hợp với thi�
 
 Khi có bản cập nhật, truy cập:
 
-👉 **[NroGT Releases](https://github.com/thachdeptrai/NroGT-Releases/releases)**
+👉 **[NroGT Releases](https://github.com/thachdeptrai/NroGT-Releases/releases/latest)**
 
 Phiên bản mới nhất sẽ có 3 file:
 
@@ -92,3 +81,4 @@ Phiên bản mới nhất sẽ có 3 file:
 NroGT.zip    → Windows
 NroGT.apk    → Android
 NroGT.ipa    → iOS / iPadOS
+```
